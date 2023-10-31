@@ -18,7 +18,7 @@ This is a simple Python application built with Tkinter that generates secure ran
 
 1. Clone or download this repository to your local machine.
 2. Ensure you have Python installed.
-3. Run the `password_generator.py` script using your Python interpreter.
+3. Run the `main.py` script using your Python interpreter.
 
 ```bash
 python main.py
